@@ -1,0 +1,8 @@
+# https://github.com/DEIB-GECO/OpenGDC
+
+```console
+package/appdata/genenames/hgnc_complete_set.txt:HGNC:5488	IGHD1OR15-1B	immunoglobulin heavy diversity 1/OR15-1B (non-functional)	other	immunoglobulin gene	Approved	15q11.2	15q11.2	"IGHD1/OR15-1B|IGHD1OR151B"			immunoglobulin heavy diversity 1/OR15-1B	Immunoglobulin heavy (IGH) orphons	350	2000-04-17		2008-09-10	2013-12-06	28334	ENSG00000270185	OTTHUMG00000184585	uc059gpu.1	X55576				2114977														IGHD1/OR15-1b								
+package/appdata/genenames/hgnc_complete_set.txt:HGNC:9451	PROC	protein C, inactivator of coagulation factors Va and VIIIa	protein-coding gene	gene with protein product	Approved	2q14.3	02q14.3		prepro-protein C		protein C (inactivator of coagulation factors Va and VIIIa)	"Endogenous ligands|Gla domain containing"	"542|1250"	2001-06-22		2015-11-18	2017-03-24	5624	ENSG00000115718	OTTHUMG00000131528	uc002tok.4	X02750	NM_000312	CCDS2145	P04070	"2991887|2437584"	MGI:97771	RGD:3411	"3d Protein C Mutations Database|http://www.itb.cnr.it/procmd/|LRG_599|http://www.lrg-sequence.org/LRG/LRG_599"	PROC	612283					118030			S01.218		objectId:2396					3.4.21.69		
+package/appdata/genenames/hgnc_complete_set.txt:HGNC:16788	SHCBP1L	SHC binding and spindle associated 1 like	protein-coding gene	gene with protein product	Approved	1q25.3	01q25.3			C1orf14	"chromosome 1 open reading frame 14|SHC SH2-domain binding protein 1-like"			2001-10-08	2011-01-24	2016-04-22	2016-10-05	81626	ENSG00000157060	OTTHUMG00000035419	uc001gpu.4	AF288397	NM_030933	CCDS30955	Q9BZQ2	"11318611|24557841"	MGI:1919086	RGD:1305609		SHCBP1L																		
+
+```

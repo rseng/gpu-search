@@ -1,0 +1,16 @@
+# https://github.com/evolbioinfo/goalign
+
+```console
+go.sum:dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
+go.sum:github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
+draw/biojsdep.go:iN4PZhcNHH4Aw7XJp45rR+rQu8ItlSX6BodbfTdscINdSogPUuISzHvqh9N6zY7s5XquYvzwOMw/
+draw/biojsdep.go:LXyhpgFD2cexMV4K2BG2WSI2BdgPUMRAff9l20jLJ/ZdChU2e5n0uZmVXmc73uj00D0eYFRGAxLN
+draw/biojsdep.go:fpxgpUqr2c8TnHzY0jAB4UkW3yB7S6e9CycQLXQURgBkJrqhqnTSUVwjz0xHP8XhlSwUJnpR5XaD
+draw/biojsdep.go:sdv/jM1Zil81obwMmmnNUaGvxEJ8XO3jx+hPbGkGPUNvkIIQnFUfCgMkEU1uJbIbfQeZerumXncm
+draw/biojsdep.go:2XslwXQ3GW93XFK8lGputASDMrev5MWqD5cAMMlKALhYOpT/MYrAjDsCwElcJLoqx3g5fVzlx8xt
+draw/biojsdep.go:Jxfu0T+LXDid5SfJ7DFeaMS9h0YZy9ymkpKdCnUWN6WvlipeUskYwBsqpjEKF6s0W0gPukXd6+9Q
+draw/biojsdep.go:WfQSgoiMUZehP9zdPRqAJM1IvGbvH/UDj9rgpUAHcsPESGT8nR+4e1FBMR+SWwwZsLVFLvKaU4Ce
+draw/biojsdep.go:OCp8MgPuylIO//argka4mz4ryHARx0DeB7IRymTYUa5kZIaZJTfJXIvBErakPH61mEv6EldBBuy+
+draw/biojsdep.go:+oE+1uHesRbqiR9JyMCiMG84CERroCmsWyG5Gu/ehsV8c4eR/CMFUh48PzFONc/xTFN+WRODPaK9
+
+```

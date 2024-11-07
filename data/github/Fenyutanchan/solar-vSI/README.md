@@ -1,0 +1,24 @@
+# https://github.com/Fenyutanchan/solar-vSI
+
+```console
+amplitude-calculation/M2-using-PackageX.nb:WGPuz0FivRA5OayP86LtZ01A1E9UHaukGCOjllqUOHVpOKZSxx12XSPXlbwI
+amplitude-calculation/M2-using-PackageX.nb:emI+mDBhgpUDa3Q3xKXSN5977rmMWlZeGFP4F/j5ICRNK7lj0C155qNXxg17
+amplitude-calculation/M2-using-PackageX.nb:iv03fgPU2/EyZ84cm0+RWl34r1HLK67cqOx1OvNcGYhTro5+ELRPjH5A7hI/
+amplitude-calculation/M2-using-PackageX.nb:/aBnz57mBz/4gf2bNRs12L31EuDGG280AwcOtLZI1p9hc2i3R9nkGpU4+0GR
+amplitude-calculation/M2-using-PackageX.nb:65a8+VbGiAEAySKSuFQWLFhgpUuXdvVNP/rooxi2DAAApLVp0yY75ZRTGCMG
+amplitude-calculation/M2-using-PackageX.nb:TP1inTp1yNuNuLXroFnBiYGaFQCAyOvZs6cdf/zxbsxw55132q5dHCRFfGPu
+amplitude-calculation/M2-using-PackageX.nb:O3d2e70SzznrDHW9evXcvvGpU6e6vtdXjzwSWIu+5RZ/2wEAQJx6JKEvVR+v
+amplitude-calculation/M2-using-PackageX.nb:e1l1qjzJz0I/9FDgPU1O11POoXCF+t6qTZUrH/n9+nmGEkOH+zMM5+egtc7T
+solar-P.nb:yAJ3KlQ4xhzoYNIK5rd5HeGpUtkTXeHw9eFvx1PR0fY7UVFFl1Je+pbLtb5R
+solar-P.nb:+umnhzT3cCh77703rlmhEwhf6MiKGPUXvXj99df32Wcf/hrPsdg33ngjWoPH
+solar-P.nb:BNqygr2INjFUo7LBgKS08SmwxRZbIApUXukBSmwuTzLELLNFWTGYggpu613E
+solar-P.nb:WbNCclzgE088YTXUYwUdnFIzyZN2S4Vn0+NFxqUUKJF+8nrKgoizTDvn9bKX
+solar-P.nb:0DxGPu/i7bfffrv0EMWEBRu35VMfrEfDNYRUp06dr7/+GiGDfS4mB37rtdde
+solar-P.nb:+/bginJ8hyuvvPJf//qXHYJ0T1704YcfIjmZGpUqgwYNwsc5PXb3hzo6E9ej
+solar-P.nb:fKOT1y4apcicSy65xOKnTp06KGgpU758eSQ/ngivL1y4UEKpjA53lNJ+/PHH
+solar-P.nb:CP2pSxpvjym4cLDI33//Pf0TsqvENXgpuqkg1LPPPsv5ogTso/7LCEtzlH+O
+solar-P.nb:zsWdUMGwbzWzeQmhpcutSbOdwErmf77aRYKrZGpU81gX2H3OKDUJ74faVb+P
+solar-P.nb:LsI+HFT5gPuahV71rtFuwDaKNl8d18JCVG9pqH4S/i+WThXbt7OQJDE22gZ7
+solar-P.nb:CjLZwX4yqRI+6xvp9rtsAt9B7g+LjymhSVwsq3VnoHB2R2p/jBJKLzOW/Gpu
+
+```

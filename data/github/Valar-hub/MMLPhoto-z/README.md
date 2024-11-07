@@ -1,0 +1,41 @@
+# https://github.com/Valar-hub/MMLPhoto-z
+
+```console
+train.py:    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+train.py:        model = model.cuda()
+train.py:            redshfit_regression = redshfit_regression.cuda()
+train.py:                redshfit_regression = redshfit_regression.cuda()
+train.py:                redshfit_regression = redshfit_regression.cuda()
+train.py:        scaler = torch.cuda.amp.GradScaler()
+train.py:            torch.cuda.empty_cache()
+utils.py:    label_sim_intra = (label_sim - torch.eye(label_sim.shape[0]).cuda()).clamp(min=0)
+utils.py:    photo_md = torch.ones(bs, dtype=torch.long).cuda()
+utils.py:    img_md = torch.zeros(bs, dtype=torch.long).cuda()
+utils.py:    photo_md = torch.ones(bs, dtype=torch.long).cuda()
+utils.py:    img_md = torch.zeros(bs, dtype=torch.long).cuda()
+utils.py:    mean_loss = torch.zeros(1).cuda()
+utils.py:        x1=x1.cuda()
+utils.py:        x2=x2.cuda()
+utils.py:        image=image.cuda()
+utils.py:        labels=labels.cuda()
+utils.py:        with torch.cuda.amp.autocast():
+utils.py:    mean_loss = torch.zeros(1).cuda()
+utils.py:        x1=x1.cuda()
+utils.py:        x2=x2.cuda()
+utils.py:        image=image.cuda()
+utils.py:        labels=labels.cuda()
+utils.py:    mean_loss = torch.zeros(10).cuda()
+utils.py:        x1=x1.cuda()
+utils.py:        x2=x2.cuda()
+utils.py:        image=image.cuda()
+utils.py:        labels=labels.cuda()
+utils.py:        con_labels=con_labels.cuda()
+utils.py:            with torch.cuda.amp.autocast():
+utils.py:    mean_loss = torch.zeros(10).cuda()
+utils.py:        x1=x1.cuda()
+utils.py:        x2=x2.cuda()
+utils.py:        image=image.cuda()
+utils.py:        labels=labels.cuda()
+utils.py:        con_labels=con_labels.cuda()
+
+```

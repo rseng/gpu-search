@@ -1,0 +1,10 @@
+# https://github.com/Jammy2211/PyAutoGalaxy
+
+```console
+files/citations.bib:abstract = {A Python non-uniform fast Fourier transform (PyNUFFT) package has been developed to accelerate multidimensional non-Cartesian image reconstruction on heterogeneous platforms. Since scientific computing with Python encompasses a mature and integrated environment, the time efficiency of the NUFFT algorithm has been a major obstacle to real-time non-Cartesian image reconstruction with Python. The current PyNUFFT software enables multi-dimensional NUFFT accelerated on a heterogeneous platform, which yields an efficient solution to many non-Cartesian imaging problems. The PyNUFFT also provides several solvers, including the conjugate gradient method, 1 total variation regularized ordinary least square (L1TV-OLS), and 1 total variation regularized least absolute deviation (L1TV-LAD). Metaprogramming libraries have been employed to accelerate PyNUFFT. The PyNUFFT package has been tested on multi-core central processing units (CPUs) and graphic processing units (GPUs), with acceleration factors of 6.3–9.5× on a 32-thread CPU platform and 5.4–13× on a GPU.},
+files/citations.bib:keywords = {Graphic processing unit (GPU),Heterogeneous system architecture (HSA),Magnetic resonance imaging (MRI),Multi-core system,Total variation (TV)},
+files/citations.bib:title = {{Python non-uniform fast fourier transform (PyNUFFT): An accelerated non-cartesian MRI package on a heterogeneous platform (CPU/GPU)}},
+paper/paper.bib:keywords = {Graphic processing unit (GPU),Heterogeneous system architecture (HSA),Magnetic resonance imaging (MRI),Multi-core system,Total variation (TV)},
+paper/paper.bib:title = {{Python non-uniform fast fourier transform (PyNUFFT): An accelerated non-cartesian MRI package on a heterogeneous platform (CPU/GPU)}},
+
+```

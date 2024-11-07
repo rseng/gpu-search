@@ -1,0 +1,11 @@
+# https://github.com/Chandra-MARX/marxs
+
+```console
+docs/_static/x3dom.js:shape._webgl.levelLoaded.push(false);})();var uploadDataToGPU=function(data,lvl){shape._webgl.levelLoaded[lvl]=true;shape._webgl.numVerticesAtLevel[lvl]=0;if(data){var indexDataLengthInBytes=0;var redrawNeeded=false;if(popGeo.hasIndex()){indexDataLengthInBytes=popGeo.getNumIndicesByLevel(lvl)*2;if(indexDataLengthInBytes>0){redrawNeeded=true;var indexDataView=new Uint8Array(data,0,indexDataLengthInBytes);gl.bindBuffer(gl.ELEMENT_ARRAY_BUFFER,shape._webgl.buffers[0]);(function(){var indexDataOffset=0;for(var i=0;i<lvl;++i){indexDataOffset+=popGeo.getNumIndicesByLevel(i);}
+docs/_static/x3dom.js:shape._webgl.currentNumIndices=numValidIndices;})();popGeo._mesh._numCoords=shape._webgl.currentNumVertices;popGeo._mesh._numFaces=(popGeo.hasIndex()?shape._webgl.currentNumIndices:shape._webgl.currentNumVertices)/3;popGeo.adaptVertexCount(popGeo.hasIndex()?popGeo._mesh._numFaces*3:popGeo._mesh._numCoords);if(redrawNeeded){shape._nameSpace.doc.needRender=true;}}};var dataURLs=popGeo.getDataURLs();var downloadCallbacks=[];var priorities=[];shape._webgl.downloadStartTimer=new Date().getTime();for(var i=0;i<dataURLs.length;++i){shape._nameSpace.doc.downloadCount+=1;(function(idx){downloadCallbacks.push(function(data){shape._nameSpace.doc.downloadCount-=1;return uploadDataToGPU(data,idx);});})(i);priorities.push(i);}
+docs/_static/x3dom.js:x3dom.caps.MAX_VERTEX_TEXTURE_IMAGE_UNITS+" vertex texture units. Please upgrade your GPU!");}
+docs/_static/x3dom.js:{return false;}}));x3dom.registerNodeType("RefinementTexture","Texturing",defineClass(x3dom.nodeTypes.RenderedTexture,function(ctx){x3dom.nodeTypes.RefinementTexture.superClass.call(this,ctx);this.addField_SFString(ctx,'stamp0',"gpuii/stamps/0.gif");this.addField_SFString(ctx,'stamp1',"gpuii/stamps/1.gif");this.addField_SFBool(ctx,'autoRefinement',true);this.addField_SFString(ctx,'format','jpg');this.addField_SFInt32(ctx,'iterations',7);this.addField_SFInt32(ctx,'maxLevel',this._vf.iterations);if(this._vf.iterations%2===0){var temp=this._vf.stamp0;this._vf.stamp0=this._vf.stamp1;this._vf.stamp1=temp;}
+marxs/missions/athena/spo.py:                                         name='SPOgeometricthrougput')
+marxs/missions/arcus/arcus.py:                                         name='SPOgeometricthrougput'))
+
+```

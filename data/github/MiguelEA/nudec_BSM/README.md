@@ -1,0 +1,18 @@
+# https://github.com/MiguelEA/nudec_BSM
+
+```console
+Neff_SM.nb:GPuR/633etrZLwtktDS/T5Xmf40XI83/kBGFNLCX5t7wH/TuPWRkIObPT3Ms
+Neff_SM.nb:GPuR/633etrZLwtktDS/T5Xmf40XI83/kBGFNLCX5t7wH/TuPWRkIObPT3Ms
+DarkRadiation.nb:F7TztgpuD9eCLeFWZ2WFf8Psy2aBK2JasPmx8PsywW4YVGfh7VE+D/vmx7pZ
+DarkRadiation.nb:61g6zeGpUqP5rJzot45EMs3srL+E1AicSPegYzTNtR9OlvqucaCqf42v/4v3
+NuScalar.nb:hjvr0TscZorHaHAg5e9yjW1oK7H/Ni3mcuDAQbbfHjRjj9+3ND4Hyv7w0mLQ
+NuScalar.nb:AkVP66yJ7DdUN6yveDVBEaSKCy9mzI2hhPHjShFJitBaE3h1SfcYYgpUKAen
+NuScalar.nb:LgPu3FjVu+C9vz1KKggGvPh5mm9hPYPVf30b6Axw4PFZsuDVxqEb2kh83tvD
+NuScalar.nb:CHbKsMifTzMEnGPuqA/E/S9Jo/th6xIGXKWzzQRwP13KL+r4nI8BeR/DTzTj
+NuScalar.nb:DzTspkOb7c5a4v18Z+olj825sCfb0oqEL0f+yUlhq9S6MTSPkWDb3Ny8GPu+
+NuScalar.nb:xCjfmhhkwcKSt58DQ3IYPCmRNL6AsDAGPu9+l0fP+1jzr54VC+5w5r3cFXr/
+NuScalar.nb:7O1+JVArzofiVOzkhH3UIaWff5m7jRfBgpup4nl1iA+/xLXxPS/6+TYoaJuf
+NuScalar.nb:ueyUotXi9ROcMSvRN6fL4+0fYv3/rNmriJ5igPmpZwQsvu4rdSX7Ic8KrlvP
+NuScalar.nb:9opwraDswW3HKhTfU7aa6agIVTE7pGpuVqHc2av717kpgsYBnfKq7Co0INud
+
+```

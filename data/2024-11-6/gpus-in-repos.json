@@ -1,0 +1,4202 @@
+{
+    "https://github.com/light-curve/light-curve": {
+        "has_gpu": false,
+        "language": "Rust"
+    },
+    "https://github.com/light-curve/light-curve-python": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/reizio/reiz.io": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/uclchem/Chemulator": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mes5k/amap-align": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/sheryl-ai/MetaPred": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/jsobeck/MOOG_SCAT": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/parklab/SCAN2": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/parklab/LiRA": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/AstrobioMike/GToTree": {
+        "has_gpu": false,
+        "language": "Shell"
+    },
+    "https://github.com/AlexMikes/AutoFunc": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/fjdu/rac-2d": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/fjdu/myRadex": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/mkenworthy/exorings": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/lukapecnik/NiaAML": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/RiccardoBiondi/segmentation": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/mendezVKI/MODULO": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/LCOGT/banzai-nres": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/LCOGT/banzai": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/LCOGT/neoexchange": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/mentatpsi/OSGenome": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/esteinig/nanoq": {
+        "has_gpu": false,
+        "language": "Rust"
+    },
+    "https://github.com/miriamkw/GluPredKit": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/odelaneau/shapeit5": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/odelaneau/shapeit4": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/odelaneau/GLIMPSE": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/mraveri/tensiometer": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/yangyanli/DO-Conv": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/TORCH-Consortium/MAGMA": {
+        "has_gpu": false,
+        "language": "Nextflow"
+    },
+    "https://github.com/openmsi/openmsistream": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/XuhanLiu/DrugEx": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/jarvist/Julia-Phonons": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/simpeg/aurora": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/jspsych/jsPsych": {
+        "has_gpu": true,
+        "language": "TypeScript"
+    },
+    "https://github.com/marberts/piar": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/JensUweUlrich/ReadBouncer": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/mc-imperial/jfs": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/mc-imperial/multicore-test-harness": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/mc-imperial/gpuverify": {
+        "has_gpu": true,
+        "language": "C#"
+    },
+    "https://github.com/aarondotter/iso": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/gwpy/gwpy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/BDI-pathogens/OpenABM-Covid19-model-paper": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/IftachSadeh/ANNZ": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/caselawanalytics/CaseLawAnalytics": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/Xia-Yijie/Xponge": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/SouthGreenPlatform/PyRice": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/Martinsos/edlib": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/marco-oliva/pfp": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/iquasere/UPIMAPI": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mbonav/Exo_DMC": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/hotokezaka/HeatingRate": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/astro-friedel/CADRE": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/megbedell/wobble": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/DeaglanBartlett/symbolic_pofk": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/kennethcarrell/ATARRI": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/AlgoLab/shark": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/Michalychforever/CLASS-PT": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/rgerum/pylustrator": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/kgullikson88/Companion-Finder": {
+        "has_gpu": false,
+        "language": "TeX"
+    },
+    "https://github.com/kgullikson88/Telluric-Fitter": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/kdeck/TTVFast": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/AlphonsG/Rainbow-Optical-Flow-For-ALI": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/baker-laboratory/RoseTTAFold-All-Atom": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/hildebra/LCA": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/hildebra/sdm": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/zengzhenhuan/GFNet": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/r-lib/credentials": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/r-lib/gert": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/Starlink/aspic": {
+        "has_gpu": false,
+        "language": "FORTRAN"
+    },
+    "https://github.com/Starlink/palpy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Starlink/perl-Starlink-Autoastrom": {
+        "has_gpu": false,
+        "language": "Perl"
+    },
+    "https://github.com/Starlink/hds-v5": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/Starlink/ORAC-DR": {
+        "has_gpu": true,
+        "language": "Perl"
+    },
+    "https://github.com/Starlink/starlink": {
+        "has_gpu": true,
+        "language": "Fortran"
+    },
+    "https://github.com/Starlink/starjava": {
+        "has_gpu": true,
+        "language": "HTML"
+    },
+    "https://github.com/Starlink/pal": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/QEF/q-e": {
+        "has_gpu": true,
+        "language": "Fortran"
+    },
+    "https://github.com/neeravkaushal/RIDs-in-WCDs": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/seap-udea/iWander": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/geza-kovacs/tran_k2": {
+        "has_gpu": false,
+        "language": "Shell"
+    },
+    "https://github.com/Keck-DataReductionPipelines/KcwiDRP": {
+        "has_gpu": true,
+        "language": "IDL"
+    },
+    "https://github.com/Keck-DataReductionPipelines/KCWI_DRP": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/LBNL-ETA/MSWH": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/MarkMageeAstro/Riddler": {
+        "has_gpu": false,
+        "language": "PureBasic"
+    },
+    "https://github.com/jlustigy/coronagraph": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/feature-engine/feature_engine": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/SMTG-UCL/ShakeNBreak": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/SMTG-UCL/surfaxe": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/qmarcou/IGoR": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/engyasin/Offline_MOT": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/juzikong/photGalIMF": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/galsci/pysm": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/zd1/telseq": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/DidierMurilloF/FielDHub": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/qboxcode/qbox-public": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/RasmussenLab/vamb": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/UgoLomoio/gtex_visualizer": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/jonas-fuchs/varVAMP": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/PaulRitsche/DL_Track_US": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/insilicomedicine/GENTRL": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/kadyb/rgugik": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/florian-lienhard/MM-LSD": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/ChenYangyao/hipp": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/MelanieKahl/MechAnalyze": {
+        "has_gpu": false,
+        "language": "MATLAB"
+    },
+    "https://github.com/ec-jrc/nrt": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/nickelnine37/pykronecker": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/AdrianA-T/cytomorph": {
+        "has_gpu": false,
+        "language": null
+    },
+    "https://github.com/LuisScoccola/persistable": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/FabioRigamonti/BANG": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/cinemascience/cinema_snap": {
+        "has_gpu": false,
+        "language": "JavaScript"
+    },
+    "https://github.com/cmayer/BaitFisher-package": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/oruhnau/when2heat": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/spglib/spgrep": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/kpenev/poet": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/walaj/svaba": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/walaj/SeqLib": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/bluesky/bluesky": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/CSUBioGroup/GraphLncLoc": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/bxia888/CEFCIG": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/sntioudis/papreca": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/olivecha/guitarsounds": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/smoh/kinesis": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/qiime2/q2-vsearch": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mithun218/GiNaCDE": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/lpfworld/DMPNet": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/martinlackner/abcvoting": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/amoradinejad/limHaloPT": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/NLESC-JCER/QMCTorch": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/NLESC-JCER/QMCblip": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/NLESC-JCER/EigenCuda": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/NLESC-JCER/Fortran_Davidson": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/flintproject/Flint": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/vsquicciarini/madys": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/zhangxn1026/a-scheme-that-combines-Srun-job-submission-mode-Sbatch-job-submission-mode-and-Monitor-function-SSM-": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/PathwayCommons/grounding-search": {
+        "has_gpu": false,
+        "language": "JavaScript"
+    },
+    "https://github.com/frescigno/magpy_rv": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/PyFstat/PyFstat": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/MJTemple/qsogen": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/FCS-analysis/PyScanFCS": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/FCS-analysis/PyCorrFit": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ICRAR/ProFit": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/ICRAR/libprofit": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/ICRAR/shark": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/miniufo/xinvert": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/PetervanLunteren/EcoAssist": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ClusterMonteCarlo/CMC-COSMIC": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/tldr-group/taufactor": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/tldr-group/samba-web": {
+        "has_gpu": true,
+        "language": "TypeScript"
+    },
+    "https://github.com/semaphoreP/whereistheplanet": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pawni/BayesByHypernet": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/DeepRegNet/DeepReg": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/mudit-jain90/i-SPin": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/nivha/three_body_integration": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/gijut/gnucash": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/smaret/thindisk": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/smaret/astrochem": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/eltevo/StePS": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/wathela/FIRST-CLASSIFIER": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/rajeshrinet/pystokes": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/djgroen/MPWide": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/MaudeDavidLab/GMEmbeddings": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/FitSNAP/FitSNAP": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/ntcockroft/STarFish": {
+        "has_gpu": true,
+        "language": "CSS"
+    },
+    "https://github.com/TheJacksonLaboratory/drug-synergy": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/TheJacksonLaboratory/SvAnna": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/davidpagnon/Sports2D": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/OncoRNALab/CiLiQuant": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Biomedical-Imaging-Group/Steer-n-Detect": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/florisvb/PyNumDiff": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mortonne/psifr": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/Bgi-LUSH/GPMeta": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/MolecularAI/DockStreamCommunity": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/orbisgis/lczexplore": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/gymreklab/GangSTR": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/gymreklab/chips": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/JetBrains-Research/spbla": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/mwanakijiji/rrlfe": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/weizhongli/cdhit": {
+        "has_gpu": false,
+        "language": "Perl"
+    },
+    "https://github.com/kinnala/scikit-fem": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/tresoldi/ngesh": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ogotoh/spaln": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/COVID-IWG/epimargin": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/BiomedSciAI/fuse-med-ml": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/tessgi/tvguide": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/Wang-Ruihui/A-live-homogeneous-database-of-solar-active-regions": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pelican/pelican": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/JeffLCoughlin/EphemMatch": {
+        "has_gpu": false,
+        "language": "Gnuplot"
+    },
+    "https://github.com/JeffLCoughlin/skye": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/cmbant/getdist": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/YenWenWang/HapDipKinship": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/leishenggit/CircleBase": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/NLeSC/scriptcwl": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/NLeSC/embodied-emotions-scripts": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/inpefess/gym-saturation": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/cespinosa/pyHIIexplorerV2": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/changhoonhahn/haloflow": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/changhoonhahn/pySpectrum": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/changhoonhahn/provabgs": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/JasonYangShadow/lpmx": {
+        "has_gpu": true,
+        "language": "Go"
+    },
+    "https://github.com/tcassanelli/pywpf": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/caseyjlaw/rtpipe": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/caseyjlaw/tpipe": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/RoelofBerg/limereg": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/bodenlab/GRASP": {
+        "has_gpu": true,
+        "language": "JavaScript"
+    },
+    "https://github.com/EdwardBerman/shopt": {
+        "has_gpu": true,
+        "language": "Julia"
+    },
+    "https://github.com/netrias/rnassist": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/quatrope/feets": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/quatrope/ProperImage": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mbaes/SpheCow": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/nmslib/hnswlib": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/lazear/sage": {
+        "has_gpu": false,
+        "language": "Rust"
+    },
+    "https://github.com/soedinglab/plass": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/soedinglab/hh-suite": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/soedinglab/spacepharer": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/soedinglab/MMseqs2": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/soedinglab/metaeuk": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/SchmollerLab/Cell_ACDC": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/DochtermannLab/BehavioralHeritability": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/DochtermannLab/G-PopComparison": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/twosixlabs/magicwand-datatool": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/samaygarg/fuelcell": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/DeepRank/pdb2sql": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/DeepRank/deeprank-core": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/DeepRank/iScore": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/DeepRank/Deeprank-GNN": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/DeepRank/PSSMGen": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/DeepRank/deeprank": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/fdebras/ECLIPS3D": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/jdidion/atropos": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/hsergi/Roman_Coronagraph_ETC": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/cl3425/Clairvoyance": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/reality/klarigi": {
+        "has_gpu": false,
+        "language": "Groovy"
+    },
+    "https://github.com/gbrammer/grizli": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/lberaldoesilva/naif": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/linqs/psl": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/raspishake/rsudp": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ParaFly/ParaFly": {
+        "has_gpu": false,
+        "language": "Shell"
+    },
+    "https://github.com/fAndreuzzi/BisPy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Ouranosinc/xclim": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/EskelandLab/ShinyArchRUiO": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/rramadeu/AGHmatrix": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/sevimcengiz/Oryx-MRSI": {
+        "has_gpu": false,
+        "language": "PostScript"
+    },
+    "https://github.com/INCEPTdk/adaptr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/jbrakensiek/CORBITS": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/rice-solar-physics/EBTEL": {
+        "has_gpu": false,
+        "language": "IDL"
+    },
+    "https://github.com/INCF/one_click": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/rqtl/qtl2": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/onnela-lab/beiwe-backend": {
+        "has_gpu": true,
+        "language": "JavaScript"
+    },
+    "https://github.com/jupyter/notebook": {
+        "has_gpu": false,
+        "language": "JavaScript"
+    },
+    "https://github.com/ebundhoo/TAGOPSIN": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/aneeshnaik/spam": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/aneeshnaik/lintsampler": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/CSB5/lofreq": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/Degiacomi-Lab/molearn": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/AllenInstitute/bmtk": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/jcombs1/blasr": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/csuhjhjhj/GCNCMI": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/SophieMLV/axionHMcode": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/awsteiner/o2scl": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/awsteiner/bamr": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/xfangcosmo/2DFFTLog": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/xfangcosmo/FFTLog-and-beyond": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/vbaliga/gaussplotR": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/sPaMFouR/RedPipe": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/bbfrederick/stabilitycalc": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/magnuspalmblad/addFeatures": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/magnuspalmblad/shic": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/magnuspalmblad/averageRegions": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/yongsukyee/uncertain_blackholemass": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/statgen/demuxlet": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/statgen/popscle": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/statgen/Minimac4": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/openmopac/mopac": {
+        "has_gpu": true,
+        "language": "Fortran"
+    },
+    "https://github.com/OpenMD/OpenMD": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/Xomics/ACTIONdemonstrator_workflow": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/migueldvb/cine": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/aabdurrouf/piXedfit": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/NiallJeffrey/DeepMass": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/NiallJeffrey/BornRaytrace": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/sfarrens/sfof": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/sfarrens/sf_deconvolve": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/rdicosmo/parmap": {
+        "has_gpu": true,
+        "language": "OCaml"
+    },
+    "https://github.com/WorkflowConversion/CTDopts": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/WorkflowConversion/CTDConverter": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/aomlomics/tourmaline": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/lastz/lastz": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/MichielsenM/FOAM": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mpc-bioinformatics/CalibraCurve": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/saltastro/pyhrs": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/blackrim/phyutility": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/jbytecode/LinRegOutliers": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/jbytecode/JMcDM": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/UUDigitalHumanitieslab/texcavator": {
+        "has_gpu": true,
+        "language": "JavaScript"
+    },
+    "https://github.com/zheng-lh/UBER": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/oncoray/mirp": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/MillionConcepts/lhorizon": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/yuguangchen1/KcwiKit": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ExpressionAnalysis/ea-utils": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/tkzeng/Pangolin": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ska-sa/hibayes": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ska-sa/katdal": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/dgrun/FateID": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/BRAIN-TO/GIRFReco.jl": {
+        "has_gpu": true,
+        "language": "Julia"
+    },
+    "https://github.com/peikuan/WBBC": {
+        "has_gpu": true,
+        "language": "Perl"
+    },
+    "https://github.com/fermiPy/fermipy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/jonas/tig": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/CEA-MetroCarac/pystack3d": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/CEA-MetroCarac/fitspy": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/sagepublishing/rejected_article_tracker_pkg": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/sourmash-bio/sourmash": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/nialov/fractopo": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/xmuyulab/DreamDIA-XMBD": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/dgbowl/yadg": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/koenderks/jaspAudit": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/carpyncho/carpyncho-py": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mirochaj/ares": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mirochaj/sedop": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/davidgardenier/frbpoppy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/davidgardenier/frbcat": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/tinawunderlich/MultichannelGPR": {
+        "has_gpu": false,
+        "language": "MATLAB"
+    },
+    "https://github.com/Single-Cell-Graph-Learning/scSGL": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/p-slash/qsonic": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ptriska/WavesDash": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/dhubber/seren": {
+        "has_gpu": false,
+        "language": "FORTRAN"
+    },
+    "https://github.com/OttoStruve/muler": {
+        "has_gpu": false,
+        "language": "TeX"
+    },
+    "https://github.com/fatmasevinck/enetLTS": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/LQYoLH/CnnCrispr": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/SNOwGLoBES/snowglobes": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/Ge-Lab/USAT": {
+        "has_gpu": true,
+        "language": "Shell"
+    },
+    "https://github.com/mjoppich/bioGUItools": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/greendw/AntabGMVA": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/taranu/AllStarFit": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/gilestrolab/pySolo": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/gilestrolab/ethoscope": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/cas-bioinf/rboAnalyzer": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/nevrome/bleiglas": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/Dulab2020/ARMT": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/Mulan-94/smops": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/tkonolige/city2ba": {
+        "has_gpu": false,
+        "language": "Rust"
+    },
+    "https://github.com/ExaScience/elprep": {
+        "has_gpu": false,
+        "language": "Go"
+    },
+    "https://github.com/Higgins00/TESS-Localize": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/sebastian-zieba/PACMAN": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/max-little/GRAPL": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/gui11aume/starcode": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/phil-mansfield/gotetra": {
+        "has_gpu": false,
+        "language": "Go"
+    },
+    "https://github.com/ArkajyotiSaha/RandomForestsGLS": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/Mat-dp/mat-dp-core": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/easystats/correlation": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/easystats/effectsize": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/easystats/performance": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/easystats/parameters": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/graphnet-team/graphnet": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/datalad/datalad": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/pnsaevik/effluent": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/markur4/plotastic": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/rvalieris/parallel-fastq-dump": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/KALMUS-Color-Toolkit/KALMUS": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Shamir-Lab/domino_web": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/y-256/libdivsufsort": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/google/jax": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/google/best": {
+        "has_gpu": false,
+        "language": "Rust"
+    },
+    "https://github.com/google/caliban": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/JuliaManifolds/Manopt.jl": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/ajeldorado/falco-matlab": {
+        "has_gpu": true,
+        "language": "MATLAB"
+    },
+    "https://github.com/ajeldorado/falco-python": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/pyFFTW/pyFFTW": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/dzerbino/velvet": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/mchalela/GriSPy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/lh3/bioawk": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/lh3/bfc": {
+        "has_gpu": false,
+        "language": "TeX"
+    },
+    "https://github.com/lh3/bgt": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/lh3/bedtk": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/lh3/wgsim": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/lh3/miniasm": {
+        "has_gpu": false,
+        "language": "TeX"
+    },
+    "https://github.com/lh3/seqtk": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/lh3/minimap2": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/lh3/fermi-lite": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/glue-viz/glue": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/brian-team/brian2": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/USEPA/harmonize-wq": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/USEPA/SSN2": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/USEPA/nsink": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/FreBio/komics": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/c-zhou/yahs": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/jan-rybizki/Chempy": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/jan-rybizki/Galaxia_wrap": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/jan-rybizki/gdr2_completeness": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/hdeeg/KvW": {
+        "has_gpu": false,
+        "language": "Prolog"
+    },
+    "https://github.com/tcollett/LensPop": {
+        "has_gpu": true,
+        "language": "sed"
+    },
+    "https://github.com/benvanwerkhoven/kernel_tuner": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/rae-holcomb/SpinSpotter": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/xenon-middleware/pyxenon": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/xenon-middleware/xenon": {
+        "has_gpu": true,
+        "language": "Java"
+    },
+    "https://github.com/Nextomics/nextsv": {
+        "has_gpu": true,
+        "language": "JavaScript"
+    },
+    "https://github.com/vrodgom/statmorph": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/bblodfon/emba": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/biocore-ntnu/pyranges": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/biocore-ntnu/epic2": {
+        "has_gpu": false,
+        "language": "Cython"
+    },
+    "https://github.com/biocore-ntnu/ncls": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/odlomax/spamcart-dev": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/pymedphys/pymedphys": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ipython/ipython": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/LucyMcGowan/tipr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/recipy/recipy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Kaixhin/FGLab": {
+        "has_gpu": true,
+        "language": "HTML"
+    },
+    "https://github.com/Kaixhin/dockerfiles": {
+        "has_gpu": true,
+        "language": "Dockerfile"
+    },
+    "https://github.com/Kaixhin/spinning-up-basic": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Kaixhin/Rainbow": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/Kaixhin/FGMachine": {
+        "has_gpu": true,
+        "language": "JavaScript"
+    },
+    "https://github.com/Kaixhin/PlaNet": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/Kaixhin/Atari": {
+        "has_gpu": true,
+        "language": "Lua"
+    },
+    "https://github.com/Kaixhin/Autoencoders": {
+        "has_gpu": true,
+        "language": "Lua"
+    },
+    "https://github.com/numba/numba": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ltlancas/walter": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/dynamicslab/pysindy": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/webbjj/m2mcluster": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/webbjj/clustertools": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/Jacks0nJ/PyFPT": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/christinahedges/contaminante": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/labjg/fibmeasure": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/undark-lab/albatross": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/undark-lab/swyft": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/undark-lab/sstrax": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/benjaminbolling/RSW": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/benjaminbolling/DynaGUI": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/danxhuber/galclassify": {
+        "has_gpu": false,
+        "language": "IDL"
+    },
+    "https://github.com/danxhuber/evolstate": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/ratt-ru/QuartiCal": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/rodrigues": {
+        "has_gpu": true,
+        "language": "JavaScript"
+    },
+    "https://github.com/ratt-ru/smops": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/montblanc": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/CubiCal": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/Stimela": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/eidos": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/Stimela-classic": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/breizorro": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/PyMORESANE": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ratt-ru/solarkat": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/saphir746/BiobankRead-Bash": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/atzberg/mlmod": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/r3w0p/bobocep": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mzkhalid039/DWBuilder": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ebmonson/2DFFTUtils-Module": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/xdf-modules/libxdf": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/caracal-pipeline/caracal": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/MrMinimal64/multivar_horner": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/t-brandt/fitramp": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/t-brandt/acorns-adi": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/t-brandt/orvara": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/sciris/sciris": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/nvalimak/fsm-lite": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/LBC-LNBio/parKVFinder-win": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/LBC-LNBio/PyMOL-KVFinder-web-Tools": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/LBC-LNBio/pyKVFinder": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/aertslab/pySCENIC": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/miguelzuma/hi_class_public": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/FengTaoSMU/MOBFinder": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/stevengiacalone/triceratops": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/gigjozsa/tirific": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/CajoterBraak/demc2": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ajwheeler/Korg.jl": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/pytoolz/toolz": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/dpryan79/MethylDackel": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/deeptools/pyBigWig": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/dpryan79/libBigWig": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/BapMel/mesocalc": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/miracum/ahd2fhir": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/padster/pyNeuroTrace": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/Yingjie4Science/SDGdetector": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/pepkit/geofetch": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/XSLiuLab/Seq2Neo": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/blankhaar/PORTAL": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/mattyowl/astLib": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/mattyowl/fitScalingRelation": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/NNSSA/GALLUMI_public": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ToyotaCRDL/mahos": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ICB-DCM/pyABC": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/sverhoeven/docker-cartodb": {
+        "has_gpu": false,
+        "language": "JavaScript"
+    },
+    "https://github.com/asntech/intervene": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/ERA-URBAN/wrfpy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/eleniadam/npgreat": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/xstarkit/MPI_XSTAR": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/bshoshany/OGRe": {
+        "has_gpu": false,
+        "language": "Mathematica"
+    },
+    "https://github.com/ExoplanetML/Nigraha": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/emunte/vaRHC": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/cbrnr/sigviewer": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/migp11/pyfastcore": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pengweixing/FACT": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/PaulKuin/uvotpy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/SoFiA-Admin/SoFiA-2": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/justinmathias/isocalcR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/hpc4cmb/toast": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/csj607/STaRS": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/r-cas/caracas": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/compomics/COSS": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/compomics/DeepLC": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/compomics/xilmass": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/agurvich/FIRE_studio": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/Acellera/htmd": {
+        "has_gpu": true,
+        "language": "Rich Text Format"
+    },
+    "https://github.com/jakelever/civicmine": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/NielsenBerkeleyLab/sconce": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/RoryChenXY/DataRepExp_public": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/sblunt/orbitize": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/relipmoc/skewer": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/spjuhel/BoARIO": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pmelchior/shapelens": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/pmelchior/shear-stacking": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pmelchior/skylens": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/pmelchior/des-exp-checker": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/pmelchior/skymapper": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pmelchior/epsnoise": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pmelchior/scarlet": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pmelchior/spender": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/pmelchior/pygmmis": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/kingyin3613/ringspy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/jonzink/EDI-Vetter": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/jonzink/EDI_Vetter_unplugged": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/LiShuTJ/NDNet": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ahmedmagds/GNUVID": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/svi-opensource/libics": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/jydu/physamp": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/jydu/maffilter": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/phelelani/nf-rnaSeqCount": {
+        "has_gpu": false,
+        "language": "Nextflow"
+    },
+    "https://github.com/phelelani/nf-rnaSeqMetagen": {
+        "has_gpu": false,
+        "language": "Nextflow"
+    },
+    "https://github.com/longfei8533/SDC": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/RuiningZHAO/wcpy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/luinix/pesco": {
+        "has_gpu": true,
+        "language": "C#"
+    },
+    "https://github.com/hydroframe/hf_hydrodata": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/hydroframe/subsettools": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/argiopetech/base": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/sambit-giri/BCMemu": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/sambit-giri/BCemu": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/sambit-giri/tools21cm": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/dixonlab/hic_breakfinder": {
+        "has_gpu": false,
+        "language": "Roff"
+    },
+    "https://github.com/zkdtc/MLC_ELGs": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/genomicepidemiology/ARGprofiler": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/Sulstice/cocktail-shaker": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/WSWUP/agweather-qaqc": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/seheonoh/2dbat": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/seheonoh/baygaud": {
+        "has_gpu": false,
+        "language": "Roff"
+    },
+    "https://github.com/anmolter/XLUR": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/jendelel/PrankWebApp": {
+        "has_gpu": true,
+        "language": "JavaScript"
+    },
+    "https://github.com/CodeEagle22/SIRITVIS": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/codidact/qpixel": {
+        "has_gpu": false,
+        "language": "Ruby"
+    },
+    "https://github.com/Li-Yangyang/LOTUS": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/astroML/gatspy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/philbull/RadioFisher": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/simonsobs/so_noise_models": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/simonsobs/nemo": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/simonsobs/pixell": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/simonsobs/mnms": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/JaimeRZP/LimberJack.jl": {
+        "has_gpu": true,
+        "language": "Julia"
+    },
+    "https://github.com/steven-murray/powerbox": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/steven-murray/pydftools": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/steven-murray/mrpy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/stefanradev93/BayesFlow": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/streamlit/streamlit": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/samb8s/PsrPopPy": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/NBISweden/AGAT": {
+        "has_gpu": true,
+        "language": "Perl"
+    },
+    "https://github.com/pymatting/pymatting": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/BorgwardtLab/simbsig": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/pinellolab/CRISPRitz": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pinellolab/CRISPResso2": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pinellolab/STREAM": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/ropensci/seasl": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/arkdb": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/dataaimsr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/censo2017": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/jenkins": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rnoaa": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/dbparser": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tiler": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/unrtf": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/roadoi": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rppo": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/helminthR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/pendulum": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/comtradr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tokenizers": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/outcomerate": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/cleanEHR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/medrxivr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/gistr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rsat": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/stantargets": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/natserv": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/geonames": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/NLMR": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/bikedata": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ijtiff": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rnpn": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rcoreoa": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/gittargets": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/finch": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/jqr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/awardFindR": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rcites": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/stplanr": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/skynet": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rinat": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/phylotaR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/wellknown": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/av": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/cld2": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/ssh": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/taxview": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rmangal": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/osmplotr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ots": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ruODK": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/FedData": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/c14bazAAR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/datapack": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rtika": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/elastic": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/pathviewr": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/ropensci/clifro": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/DoOR.data": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/CoordinateCleaner": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ritis": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/landscapetools": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/taxa": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rnassqs": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/robotstxt": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/nodbi": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/BaseSet": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rb3": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/weathercan": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/baRcodeR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/bib2df": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/worrms": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/vcr": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/GSODR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rAltmetric": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/cyphr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/suppdata": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/infx": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/plater": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/mapscanner": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tesseract": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tidync": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rfishbase": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/RefManageR": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/writexl": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/eia": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tidyqpcr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/cde": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/trufflesniffer": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/textreuse": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/popler": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/codemetar": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rrricanesdata": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/bowerbird": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/geojsonlint": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/predictNMB": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/smapr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/babette": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/beautier": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/osmextract": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rdryad": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rplos": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/googleLanguageR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rromeo": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/outsider.devtools": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/git2rdata": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/handlr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/opencv": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/pdftools": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/bittrex": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rdhs": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rgbif": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/magick": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tacmagic": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/taxizedb": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/osmapiR": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/mregions": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tif": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tabulizer": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/EML": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rgpdd": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/lingtypology": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/dataspice": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/taxlist": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/opencage": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rfema": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/biomartr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/DataPackageR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/colocr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rentrez": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/treedata.table": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/chromer": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rtweet": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/assertr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/hddtools": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/restez": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/graphql": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/mcbette": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/virtuoso": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/addressable": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/refsplitr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/slopes": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rotl": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/historydata": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/crul": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/parzer": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rbhl": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/namext": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/RNeXML": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/MODISTools": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/MODIStsp": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/traits": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/fingertipsR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/cchecks": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/nlrx": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/gtfsr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/nbaR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/geojsonio": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/onekp": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/internetarchive": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/microdemic": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/brranching": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/iheatmapr": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/jagstargets": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/daiquiri": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/cRegulome": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/Rpolyhedra": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/chirps": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/gitignore": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/mctq": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/randgeo": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/photosearcher": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/ropensci/webchem": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/skimr": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/ropensci/rdflib": {
+        "has_gpu": true,
+        "language": "HTML"
+    },
+    "https://github.com/ropensci/spocc": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/mauricer": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/mapr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ecoengine": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/antiword": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/gutenbergr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/qualtRics": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/git2r": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/scrubr": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rebird": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/epubr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/charlatan": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rdatacite": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tradestatistics": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/essurvey": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/treestartr": {
+        "has_gpu": false,
+        "language": "TeX"
+    },
+    "https://github.com/ropensci/excluder": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ramlegacy": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/taxadb": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/USAboundariesData": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/chlorpromazineR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/AntWeb": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/isdparser": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/wikitaxa": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/coder": {
+        "has_gpu": false,
+        "language": "TeX"
+    },
+    "https://github.com/ropensci/PostcodesioR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/oai": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tidypmc": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rdataretriever": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rnaturalearth": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/pixelclasser": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/hydroscoper": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/dittodb": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rOPTRAM": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/fulltext": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/bibtex": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/pangaear": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rfigshare": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/bomrang": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/webmockr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/plotly": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/katex": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tidyhydat": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/nasapower": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rvertnet": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/allodb": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/unifir": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/paleobioDB": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/RSelenium": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/solrium": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/weatherOz": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/phylocomr": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/rdefra": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/europepmc": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/dbhydroR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/piggyback": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/spelling": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rgnparser": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/fauxpas": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rcrossref": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/stats19": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tarchetypes": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/jstor": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/jsonld": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/citesdb": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/osfr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tic": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/osmdata": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/rusda": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/riem": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/emld": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/staypuft": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tinkr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/workloopR": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/xslt": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/phonfieldwork": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/ropensci/beastier": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/citecorp": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ckanr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/hunspell": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/rsnps": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rredlist": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/refimpact": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/exoplanets": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/drake": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/wateRinfo": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rrricanes": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/sofa": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/bold": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/treebase": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/binman": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/prism": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/DoOR.functions": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/USAboundaries": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rnaturalearthdata": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rWBclimate": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/patentsview": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/outsider": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/pubchunks": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/Rclean": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/terrainr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rglobi": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/taxize": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/aRxiv": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ghql": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/readODS": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/timefuzz": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/camsRad": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/targets": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rbace": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/outsider.base": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rfisheries": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/getCRUCLdata": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/cld3": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/opentripplanner": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/lightr": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/zbank": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/EndoMineR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/opencontext": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/wdman": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rnaturalearthhires": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/UCSCXenaTools": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/visdat": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/ropensci/neotoma": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rcol": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/tracerer": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/MtreeRing": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/circle": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/grainchanger": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/hoardr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/ezknitr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/cffr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/jsonvalidate": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/antanym": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/conditionz": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rAvis": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/phylogram": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/qpdf": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/rorcid": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/SymbiotaR2": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/spiro": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rrlite": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/ropensci/nomisr": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rcitoid": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/DataSpaceR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rerddap": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/rzmq": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/ropensci/rperseus": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/spatsoc": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ropensci/getlandsat": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/C3BI-pasteur-fr/toppred": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/nye17/javelin": {
+        "has_gpu": true,
+        "language": "Fortran"
+    },
+    "https://github.com/IAMconsortium/pyam": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/parthenon-hpc-lab/parthenon": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/bramvandijk88/cacatoo": {
+        "has_gpu": false,
+        "language": "JavaScript"
+    },
+    "https://github.com/variomes/sibtm-variomes": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/EigenDev/simbi": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/MolMeDB/MolMeDB": {
+        "has_gpu": true,
+        "language": "JavaScript"
+    },
+    "https://github.com/ocean-eddy-cpt/gcm-filters": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/hues-platform/cesar-p-core": {
+        "has_gpu": true,
+        "language": "HTML"
+    },
+    "https://github.com/pyspeckit/pyspeckit": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/anwarbio/bioassays": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/jjmccollum/teiphy": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/aothmane-control/Algebraic-differentiators": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/andresGranadosC/GalRotpy": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/ketch/RK-Opt": {
+        "has_gpu": false,
+        "language": "MATLAB"
+    },
+    "https://github.com/ketch/nodepy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/AprilYuge/ResPAN": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/BritishGeologicalSurvey/pyvolcans": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/JixingGE/GGCHEMPY": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Shyentist/fish-r-man": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/sanjibs/bmcmc": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/cdw9bf/CompactGroup": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Pinlyu3/LRLoop": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/bregaldo/pywst": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/mrbell/fsclean": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/3d-pli/fastpli": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/cistrome/MIRA": {
+        "has_gpu": true,
+        "language": "HTML"
+    },
+    "https://github.com/bmoster/emerge": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/databio/GenomicDistributions": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/pynbody/pynbody": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/pynbody/tangos": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pynbody/genetIC": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/jamesaird/FAST": {
+        "has_gpu": false,
+        "language": "sed"
+    },
+    "https://github.com/grahambell/pymoc": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/LucaJRossi/NIGO": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/egstrom/cluster-in-a-box": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/floodlight-sports/floodlight": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/biswajitmb/DarpanX": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/Gaiana/nirdust": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/lasseignelab/CINmetrics": {
+        "has_gpu": true,
+        "language": "R"
+    },
+    "https://github.com/rivasiker/PhaseTypeR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/KTH-Nek5000/UQit": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/jtksai/PyCOOL": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/wilkelab/Opfi": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/SWE-UniStuttgart/Qlunc": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/KerryAM-R/ggVolcanoR": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/joglekara/VlaPy": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/amiralih/MembraneAnalysis.jl": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/mengaldo/PySPOD": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/spicy-oil/hfs_fit": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/matvii/ADAM": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/chfeder/turbulence_generator": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/alstat/ALUES": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/marius311/pypico": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/marius311/cosmoslik": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/agombolay/ribose-map": {
+        "has_gpu": false,
+        "language": "Shell"
+    },
+    "https://github.com/pirl-unc/ace": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/pynucastro/pynucastro": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/flemingtonlab/SpliceV": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/desResLab/LINFA": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/cdominik/optool": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/asancpt/caffsim": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/E3SM-Project/gdess": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/cholla-hydro/cholla": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/latrop/DECA": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/LINNAE-project/SFB-Annotator": {
+        "has_gpu": false,
+        "language": "JavaScript"
+    },
+    "https://github.com/firefly-cpp/NiaARM": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/paulhjkelly/taskgraph-metaprogramming": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/prashjet/popkinmocks": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/moranegg/deposit-template": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/moranegg/AffectationRO": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/mperezcarrasco/AnomalyALeRCE": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/berenslab/MorphoPy": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/pyomeca/biorbd": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/pyomeca/ezc3d": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/pyomeca/biosiglive": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/lrnv/Copulas.jl": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/lrnv/cort": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/ejsafron/SATCHEL": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/adamantine-sim/adamantine": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/smithlabcode/falco": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/smithlabcode/preseq": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/smithlabcode/dnmtools": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/smithlabcode/abismal": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/kuenzelab/ENDURE": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/davtsang/slimplectic": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/JuliaOcean/PlanktonIndividuals.jl": {
+        "has_gpu": true,
+        "language": "Julia"
+    },
+    "https://github.com/JuliaOcean/AIBECS.jl": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/ajshajib/dolphin": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/ajshajib/LensingETC": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/hyattpd/Prodigal": {
+        "has_gpu": false,
+        "language": "C"
+    },
+    "https://github.com/kusmic/pycosie": {
+        "has_gpu": false,
+        "language": "HTML"
+    },
+    "https://github.com/benyhh/ml-telescope-pointing-correction": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/jolie/tquery": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/casacore/casacore": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/BackmanLab/PWSpy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/davidsoergel/rtax": {
+        "has_gpu": false,
+        "language": "Perl"
+    },
+    "https://github.com/ArnaudCassan/microlensing": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/OceanGenomics/mudskipper": {
+        "has_gpu": false,
+        "language": "Rust"
+    },
+    "https://github.com/DorianDepriester/MTEX2Gmsh": {
+        "has_gpu": false,
+        "language": "MATLAB"
+    },
+    "https://github.com/chrisaberson/BetterReg": {
+        "has_gpu": false,
+        "language": "R"
+    },
+    "https://github.com/DataIntellSystLab/KARGA": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/cicirello/rho-mu": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/cicirello/Chips-n-Salsa": {
+        "has_gpu": false,
+        "language": "Java"
+    },
+    "https://github.com/bayzidlab/SAINT-Angle": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/SeaIce-Math/SubZero": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/rodluger/planetplanet": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/rodluger/everest": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/rodluger/starry_process": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/benhid/Sequoya": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ben-cassese/squishyplanet": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/chombo-discharge/chombo-discharge": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/PathoGenOmics-Lab/get_MNV": {
+        "has_gpu": false,
+        "language": "Rust"
+    },
+    "https://github.com/vidarsko/ComFiT": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/mikesmitka/truvot": {
+        "has_gpu": false,
+        "language": "IDL"
+    },
+    "https://github.com/hiddenSymmetries/simsopt": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/theosanderson/chronumental": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/dtanoglidis/DeepShadows": {
+        "has_gpu": true,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/McMahonCosmologyGroup/holosim-ml": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/SterlingYM/astroPIPS": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/domschrei/mallob": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/santeripuranen/SpydrPick": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/mrirecon/view": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/mrirecon/bart": {
+        "has_gpu": true,
+        "language": "C"
+    },
+    "https://github.com/akinremisa/rfsed": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/fermisurfaces/IFermi": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/pyroll-project/pyroll-core": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/jeschaef/Graph4Med": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/PopGenClustering/Clumppling": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/UNSW-CEEM/nempy": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/UNSW-CEEM/NEMSEER": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/moeyensj/atm": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/carlosborca/CrystaLattE": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/marcelauliano/MitoHiFi": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/jacobblum/simDRIFT": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/arnikz/PIQMIe": {
+        "has_gpu": false,
+        "language": "JavaScript"
+    },
+    "https://github.com/rvaser/sword": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/rvaser/rampler": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/rvaser/spoa": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/rvaser/thread_pool": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/rvaser/bioparser": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/wmalab/EnHiC": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/mlarichardson/ramses2hsim": {
+        "has_gpu": false,
+        "language": "Fortran"
+    },
+    "https://github.com/mlarichardson/CosmosCanvas": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/FINNGEN/lavaa-react": {
+        "has_gpu": true,
+        "language": "TypeScript"
+    },
+    "https://github.com/GWang2022/iGDP": {
+        "has_gpu": false,
+        "language": "Perl"
+    },
+    "https://github.com/aymgal/COOLEST": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/ViennaRNA/RNAblueprint": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/fast-data-transfer/fdt": {
+        "has_gpu": true,
+        "language": "Java"
+    },
+    "https://github.com/sosl/H-FISTA": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/yhoogstrate/fastafs": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/tne-lab/py-behav-box-v2": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/NicOudart/PyBWE": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/FRBs/FRB": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/ranocha/SummationByPartsOperators.jl": {
+        "has_gpu": false,
+        "language": "Julia"
+    },
+    "https://github.com/exciting/excitingtools": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/micbia/SubgridClumping": {
+        "has_gpu": false,
+        "language": "Jupyter Notebook"
+    },
+    "https://github.com/PENTACLE-Team/PENTACLE": {
+        "has_gpu": false,
+        "language": "C++"
+    },
+    "https://github.com/nextstrain/augur": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/nextstrain/auspice": {
+        "has_gpu": false,
+        "language": "JavaScript"
+    },
+    "https://github.com/nextstrain/nextclade": {
+        "has_gpu": true,
+        "language": "C++"
+    },
+    "https://github.com/JoeMcEwen/FAST-PT": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/SJLeo/FFSD": {
+        "has_gpu": true,
+        "language": "Python"
+    },
+    "https://github.com/TianlaiProject/tlpipe": {
+        "has_gpu": false,
+        "language": "Python"
+    },
+    "https://github.com/DrexelLenser/Lenser": {
+        "has_gpu": false,
+        "language": "Python"
+    }
+}

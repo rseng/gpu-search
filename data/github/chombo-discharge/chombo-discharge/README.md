@@ -1,0 +1,30 @@
+# https://github.com/chombo-discharge/chombo-discharge
+
+```console
+Docs/Sphinx/source/ltp.bib:   abstract = {We show feasibility and benefits of porting an adaptive multi-scale kinetic-fluid code to CPU-GPU systems. Challenges are due to the irregular data access for adaptive Cartesian mesh, vast difference of computational cost between kinetic and fluid cells, and desire to evenly load all CPUs and GPUs during grid adaptation and algorithm refinement. Our Unified Flow Solver (UFS) combines Adaptive Mesh Refinement (AMR) with automatic cell-by-cell selection of kinetic or fluid solvers based on continuum breakdown criteria. Using GPUs enables hybrid simulations of mixed rarefied-continuum flows with a million of Boltzmann cells each having a 24. ×. 24. ×. 24 velocity mesh. We describe the implementation of CUDA kernels for three modules in UFS: the direct Boltzmann solver using the discrete velocity method (DVM), the Direct Simulation Monte Carlo (DSMC) solver, and a mesoscopic solver based on the Lattice Boltzmann Method (LBM), all using adaptive Cartesian mesh. Double digit speedups on single GPU and good scaling for multi-GPUs have been demonstrated.},
+Docs/Sphinx/source/ltp.bib:   keywords = {Adaptive Mesh Refinement,Boltzmann kinetic equation,CUDA,Direct Simulation Monte Carlo,Discrete velocity method,Graphics processing units,Lattice Boltzmann Method,MPI,Unified Flow Solver},
+Docs/Sphinx/source/ltp.bib:   abstract = {A 3-dimensional particle-in-cell/Monte Carlo collision simulation that is fully implemented on a graphics processing unit (GPU) is described and used to determine low-temperature plasma characteristics at high reduced electric field, E/n, in nitrogen gas. Details of implementation on the GPU using the NVIDIA Compute Unified Device Architecture framework are discussed with respect to efficient code execution. The software is capable of tracking around 10 × 106 particles with dynamic weighting and a total mesh size larger than 108 cells. Verification of the simulation is performed by comparing the electron energy distribution function and plasma transport parameters to known Boltzmann Equation (BE) solvers. Under the assumption of a uniform electric field and neglecting the build-up of positive ion space charge, the simulation agrees well with the BE solvers. The model is utilized to calculate plasma characteristics of a pulsed, parallel plate discharge. A photoionization model provides the simulation with additional electrons after the initial seeded electron density has drifted towards the anode. Comparison of the performance benefits between the GPU-implementation versus a CPU-implementation is considered, and a speed-up factor of 13 for a 3D relaxation Poisson solver is obtained. Furthermore, a factor 60 speed-up is realized for parallelization of the electron processes.},
+Docs/Sphinx/source/references.bib:abstract = {{\textcopyright} 2014 AIP Publishing LLC. A 3-dimensional particle-in-cell/Monte Carlo collision simulation that is fully implemented on a graphics processing unit (GPU) is described and used to determine low-temperature plasma characteristics at high reduced electric field, E/n, in nitrogen gas. Details of implementation on the GPU using the NVIDIA Compute Unified Device Architecture framework are discussed with respect to efficient code execution. The software is capable of tracking around 10 × 10 6  particles with dynamic weighting and a total mesh size larger than 108 cells. Verification of the simulation is performed by comparing the electron energy distribution function and plasma transport parameters to known Boltzmann Equation (BE) solvers. Under the assumption of a uniform electric field and neglecting the build-up of positive ion space charge, the simulation agrees well with the BE solvers. The model is utilized to calculate plasma characteristics of a pulsed, parallel plate discharge. A photoionization model provides the simulation with additional electrons after the initial seeded electron density has drifted towards the anode. Comparison of the performance benefits between the GPU-implementation versus a CPU-implementation is considered, and a speed-up factor of 13 for a 3D relaxation Poisson solver is obtained. Furthermore, a factor 60 speed-up is realized for parallelization of the electron processes.},
+Lib/Local/fram/Make.defs.Intel:#  GPU          : (TRUE,FALSE) compile CUDA kernels
+Lib/Local/fram/Make.defs.Intel:## Note: don't set the CUDA variables if you are not using a CUDA GPU
+Lib/Local/fram/Make.defs.Intel:#GPU           =
+Lib/Local/fram/Make.defs.HDF5.MPI.Intel:#  GPU          : (TRUE,FALSE) compile CUDA kernels
+Lib/Local/fram/Make.defs.HDF5.MPI.Intel:## Note: don't set the CUDA variables if you are not using a CUDA GPU
+Lib/Local/fram/Make.defs.HDF5.MPI.Intel:#GPU           =
+Lib/Local/fram/Make.defs.MPI.Intel:#  GPU          : (TRUE,FALSE) compile CUDA kernels
+Lib/Local/fram/Make.defs.MPI.Intel:## Note: don't set the CUDA variables if you are not using a CUDA GPU
+Lib/Local/fram/Make.defs.MPI.Intel:#GPU           =
+Lib/Local/betzy/Make.defs.MPI.HDF5.GNU:#  GPU          : (TRUE,FALSE) compile CUDA kernels
+Lib/Local/betzy/Make.defs.MPI.HDF5.GNU:## Note: don't set the CUDA variables if you are not using a CUDA GPU
+Lib/Local/betzy/Make.defs.MPI.HDF5.GNU:#GPU           =
+Lib/Local/betzy/Make.defs.GNU:#  GPU          : (TRUE,FALSE) compile CUDA kernels
+Lib/Local/betzy/Make.defs.GNU:## Note: don't set the CUDA variables if you are not using a CUDA GPU
+Lib/Local/betzy/Make.defs.GNU:#GPU           =
+Lib/Local/betzy/Make.defs.MPI.GNU:#  GPU          : (TRUE,FALSE) compile CUDA kernels
+Lib/Local/betzy/Make.defs.MPI.GNU:## Note: don't set the CUDA variables if you are not using a CUDA GPU
+Lib/Local/betzy/Make.defs.MPI.GNU:#GPU           =
+Lib/Local/Make.defs.local.template:#  GPU          : (TRUE,FALSE) compile CUDA kernels
+Lib/Local/Make.defs.local.template:## Note: don't set the CUDA variables if you are not using a CUDA GPU
+Lib/Local/Make.defs.local.template:#GPU           =
+
+```
