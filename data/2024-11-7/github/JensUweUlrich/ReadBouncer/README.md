@@ -1,8 +1,0 @@
-# https://github.com/JensUweUlrich/ReadBouncer
-
-```console
-README.md:ReadBouncer is a nanopore adaptive sampling tool for Windows and Linux (x64 or ARM64) that uses Interleaved Bloom Filters for live classification of nanopore reads, basecalled with either Guppy(GPU mode) or DeepNano-blitz(CPU mode). The Toolkit uses Oxford Nanopore's Read Until functionality to unblock reads that match to a given reference sequence database. The database is indexed as Interleaved Bloom Filter for fast classification.
-README.md:Basecaller used during adaptive sampling. For CPU base-calling use "DeepNano", use "Guppy" for GPU base-calling otherwise. Please note that you need to start the Guppy basecall server on a host machine with powerful GPUs that can keep up with the sequencing speed. ReadBouncer will connect to the server via its integrated the guppy basecall client. We recommend read Miles Benton's great [github repository](https://github.com/sirselim/jetson_nanopore_sequencing) on setting up adaptive sampling with NVIDIA AGX/NX. We further recommend testing adaptive sampling with a playback run before starting a real experiment.
-README.md:- ReadBouncer is highly dependent on basecallers and their accuracy. Since the base-calling accuracy of ONT's Guppy (in fast mode) is much higher than that of DeepNano-blitz, we highly recommend to use Guppy if GPUs are available. If you are not sure whether your GPU is powerful enough to perform live-basecalling, you can have a look at Miles Benton's great [github repository](https://github.com/sirselim/jetson_nanopore_sequencing), where he summarizes all his experiences with Adaptive Sampling on different GPUs. 
-
-```
